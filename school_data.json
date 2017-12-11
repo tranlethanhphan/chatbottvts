@@ -1,0 +1,257 @@
+{
+    "list": [{
+            "city_name": "Đà Nẵng",
+            "picture": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/shared/teasersL/da-nang/top10s/top10-da-nang-attractions/teaserMultiLarge/imageHilight/da-nang-attractions.jpg",
+            "detail": "Đà Nẵng là một thành phố thuộc trung ương từ năm 1997, nằm trong vùng Nam Trung Bộ, Việt Nam",
+            "item_url": "http://danang.gov.vn/",
+            "townList": [{
+                    "town_name": "Liên chiểu",
+                    "picture": "http://www.vir.com.vn/stores/news_dataimages/hung/012017/03/11/tp_danang.jpg",
+                    "detail": "Quận Liên Chiểu là một quận thuộc thành phố Đà Nẵng. Là một quận công nghiệp trẻ, phân bố dọc theo quốc lộ 1A và có đường sắt Bắc Nam đi qua",
+                    "item_url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_Chi%E1%BB%83u",
+                    "school_list": [{
+
+                    }]
+                },
+                {
+                    "town_name": "Hòa Khánh",
+                    "picture": "http://baocongthuong.com.vn/stores/news_dataimages/baocongthuong/102014/21/15/kcn-hoa-khanh-2-01-8227220141021153612.5456640.jpg",
+                    "detail": "Hòa Khánh Nam là một phường thuộc quận Liên Chiểu, thành phố Đà Nẵng, Việt Nam.",
+                    "item_url": "https://vi.wikipedia.org/wiki/H%C3%B2a_Kh%C3%A1nh_Nam,_Li%C3%AAn_Chi%E1%BB%83u",
+                    "school_list": [{
+                            "school_name": "Đại Học SP Đà Nẵng",
+                            "picture": "http://media.tinmoi.vn/2014/08/11/dhsuphamdanang.jpg",
+                            "detail": "Trường Đại học Sư phạm - Đại học Đà Nẵng - được thành lập theo Nghị định 32/CP ngày 04/04/1994 của Chính phủ",
+                            "item_url": "http://ued.udn.vn/",
+                            "Special_list": [{
+                                    "special_name": "Tin",
+                                    "picture": "http://pisi.cit.udn.vn/images/supham_khoatin.png",
+                                    "detail": " Khoa Tin học được thành lập tháng 2 năm 2004 trên cơ sở tách khoa Toán - Tin thành 2 khoa Tin học và khoa Toán",
+                                    "item_url": "http://it.ued.udn.vn/features/khoa-tin-hoc",
+                                    "subject_list": [{
+                                        "subject_name": "Công Nghệ Thông Tin",
+                                        "picture": "https://eaut.edu.vn/wp-content/uploads/2016/11/ngang-CNTT.jpg",
+                                        "detail": "Công nghệ thông tin ( IT – Information Technology ) là một thuật ngữ bao gồm phần mềm, mạng lưới internet, hệ thống máy tính sử dụng cho việc phân phối và xử lý dữ liệu, trao đổi, lưu trữ và sử dụng thông tin dưới hình thức khác nhau",
+                                        "item_url": "http://it.ued.udn.vn/features/khoa-tin-hoc",
+                                        "year_list": [{
+                                                "year": "2017",
+                                                "ma_nganh": "52480201",
+                                                "diem_chuan": "17.75",
+                                                "chi_tieu": "90",
+                                                "chu_thich": "TO >= 5.2;LI >= 5.25;TTNV <= 3"
+                                            },
+                                            {
+                                                "year": "2016",
+                                                "ma_nganh": "52480201",
+                                                "diem_chuan": "19",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            },
+                                            {
+                                                "year": "2015",
+                                                "ma_nganh": "52480201",
+                                                "diem_chuan": "19",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            }
+                                        ]
+                                    }, {
+                                        "subject_name": "Sư Phạm Tin",
+                                        "picture": "http://image.khaigiang.vn/school/files/2498/thumbnail/600x400/459505xxx(50).jpg",
+                                        "detail": "Sinh viên Cử nhân Sư phạm Tin học của Nhà trường sau khi tốt nghiệp được tiếp nhận công tác tại các trường phổ thông, cao đẳng, đại học và các cơ sở nghiên cứu khoa học trong cả nước.  ",
+                                        "item_url": "http://it.ued.udn.vn/features/khoa-tin-hoc",
+                                        "year_list": [{
+                                                "year": "2017",
+                                                "ma_nganh": "52140210",
+                                                "diem_chuan": "15.75",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "TO >= 3.4;LI >= 5.5;TTNV <= 1"
+                                            },
+                                            {
+                                                "year": "2016",
+                                                "ma_nganh": "52140210",
+                                                "diem_chuan": "17.25",
+                                                "chi_tieu": "60",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            },
+                                            {
+                                                "year": "2015",
+                                                "ma_nganh": "52140210",
+                                                "diem_chuan": "18",
+                                                "chi_tieu": "50",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            }
+                                        ]
+                                    }]
+                                },
+                                {
+                                    "special_name": "Toán",
+                                    "picture": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/shared/teasersL/da-nang/top10s/top10-da-nang-attractions/teaserMultiLarge/imageHilight/da-nang-attractions.jpg",
+                                    "detail": "mô tả",
+                                    "item_url": "http://danang.gov.vn/",
+                                    "subject_list": [{
+                                        "subject_name": "Sư phạm Toán học",
+                                        "picture": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/shared/teasersL/da-nang/top10s/top10-da-nang-attractions/teaserMultiLarge/imageHilight/da-nang-attractions.jpg",
+                                        "detail": "mô tả",
+                                        "item_url": "http://danang.gov.vn/",
+                                        "year_list": [{
+                                                "year": "2017",
+                                                "ma_nganh": "52140209",
+                                                "diem_chuan": "24.25",
+                                                "chi_tieu": "90",
+                                                "chu_thich": "TO >= 7;LI >= 8;TTNV <= 6"
+                                            },
+                                            {
+                                                "year": "2016",
+                                                "ma_nganh": "52140209",
+                                                "diem_chuan": "22.50",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            },
+                                            {
+                                                "year": "2015",
+                                                "ma_nganh": "52140209",
+                                                "diem_chuan": "23.75",
+                                                "chi_tieu": "50",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            }
+                                        ]
+                                    }, {
+                                        "subject_name": "Toán ứng dụng",
+                                        "picture": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/shared/teasersL/da-nang/top10s/top10-da-nang-attractions/teaserMultiLarge/imageHilight/da-nang-attractions.jpg",
+                                        "detail": "mô tả",
+                                        "item_url": "http://danang.gov.vn/",
+                                        "year_list": [{
+                                                "year": "2017",
+                                                "ma_nganh": "52460112",
+                                                "diem_chuan": "15.50",
+                                                "chi_tieu": "80",
+                                                "chu_thich": "TO >= 5.8;LI >= 4.5;TTNV <= 3"
+                                            },
+                                            {
+                                                "year": "2016",
+                                                "ma_nganh": "52460112",
+                                                "diem_chuan": "16",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            },
+                                            {
+                                                "year": "2015",
+                                                "ma_nganh": "52460112",
+                                                "diem_chuan": "15",
+                                                "chi_tieu": "60",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            }
+                                        ]
+                                    }]
+                                }
+                            ]
+                        },
+                        {
+                            "school_name": "Đại Học BK Đà Nẵng",
+                            "picture": "http://www.baoxaydung.com.vn/stores/news_dataimages/vananh/112016/23/19/195748baoxaydung_image001.jpg",
+                            "detail": "Trường Đại học Bách khoa - Đại học Đà Nẵng - được thành lập theo Nghị định 32/CP ngày 04/04/1994 của Chính phủ",
+                            "item_url": "http://dut.udn.vn/",
+                            "Special_list": [{
+                                    "special_name": "Công nghệ thông tin",
+                                    "picture": "http://pisi.cit.udn.vn/images/supham_khoatin.png",
+                                    "detail": " Khoa Tin học được tách từ Khoa Công nghệ Thông tin & Điện tử Viễn thông",
+                                    "item_url": "http://www.dut.udn.vn/KhoaCNTT",
+                                    "subject_list": [{
+                                        "subject_name": "Công Nghệ Thông Tin",
+                                        "picture": "https://eaut.edu.vn/wp-content/uploads/2016/11/ngang-CNTT.jpg",
+                                        "detail": "Công nghệ thông tin ( IT – Information Technology ) là một thuật ngữ bao gồm phần mềm, mạng lưới internet, hệ thống máy tính sử dụng cho việc phân phối và xử lý dữ liệu, trao đổi, lưu trữ và sử dụng thông tin dưới hình thức khác nhau",
+                                        "item_url": "http://it.ued.udn.vn/features/khoa-tin-hoc",
+                                        "year_list": [{
+                                                "year": "2017",
+                                                "ma_nganh": "52480201",
+                                                "diem_chuan": "26",
+                                                "chi_tieu": "90",
+                                                "chu_thich": "TO >= 5.2;LI >= 5.25;TTNV <= 3"
+                                            },
+                                            {
+                                                "year": "2016",
+                                                "ma_nganh": "52480201",
+                                                "diem_chuan": "23.75",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            },
+                                            {
+                                                "year": "2015",
+                                                "ma_nganh": "52480201",
+                                                "diem_chuan": "24",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "TO >= 7.25"
+                                            }
+                                        ]
+                                    }]
+                                },
+                                {
+                                    "special_name": "Kiến trúc",
+                                    "picture": "http://pisi.cit.udn.vn/images/supham_khoatin.png",
+                                    "detail": " Khoa Tin học được tách từ Khoa Công nghệ Thông tin & Điện tử Viễn thông",
+                                    "item_url": "http://it.ued.udn.vn/features/khoa-tin-hoc",
+                                    "subject_list": [{
+                                        "subject_name": "Kiến trúc",
+                                        "picture": "https://eaut.edu.vn/wp-content/uploads/2016/11/ngang-CNTT.jpg",
+                                        "detail": "Công nghệ thông tin ( IT – Information Technology ) là một thuật ngữ bao gồm phần mềm, mạng lưới internet, hệ thống máy tính sử dụng cho việc phân phối và xử lý dữ liệu, trao đổi, lưu trữ và sử dụng thông tin dưới hình thức khác nhau",
+                                        "item_url": "http://it.ued.udn.vn/features/khoa-tin-hoc",
+                                        "year_list": [{
+                                                "year": "2017",
+                                                "ma_nganh": "52580102CLC",
+                                                "diem_chuan": "21.25",
+                                                "chi_tieu": "90",
+                                                "chu_thich": "TO >= 5.2;LI >= 5.25;TTNV <= 3"
+                                            },
+                                            {
+                                                "year": "2016",
+                                                "ma_nganh": "52580102CLC",
+                                                "diem_chuan": "18.5",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "Không có tiêu chí phụ"
+                                            },
+                                            {
+                                                "year": "2015",
+                                                "ma_nganh": "52580102CLC",
+                                                "diem_chuan": "18",
+                                                "chi_tieu": "70",
+                                                "chu_thich": "TO >= 7.25"
+                                            }
+                                        ]
+                                    }]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "city_name": "Hà Nội",
+            "picture": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAtuAAAAJGI5YTk0MGVjLTFjZGUtNDhmYi05YTU3LTdlMmYxNTE4ZmJhMA.jpg",
+            "detail": "Hà Nội là thủ đô của nước Cộng hoà xã hội chủ nghĩa Việt Nam và cũng là kinh đô của hầu hết các vương triều phong kiến Việt trước đây",
+            "item_url": "https://hanoi.gov.vn/",
+            "townList": [{
+                    "town_name": "Liên chiểu",
+                    "map_src": "link quận",
+                    "detail": "mô tả",
+                    "school_list": [
+
+                    ]
+                },
+                {
+                    "town_name": "Hòa Khánh",
+                    "map_src": "link quận",
+                    "detail": "mô tả",
+                    "school_list": [{
+                            "school_name": "Đại học sư phạm Đà Nẵng"
+                        },
+                        {
+                            "school_name": "Đại học Bách khóa Đà Nẵng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
